@@ -4,6 +4,8 @@
 
 This script adds a hashed password to protect your [Jupyter](http://jupyter.org/) notebooks.
 
+Note (kkazakov): I've forked the project and updated it for python3. Besides that, it's exactly the same as paderijk's code.
+
 ## Prerequisites
 
 * [Jupyter installation](http://jupyter.readthedocs.io/en/latest/install.html)
